@@ -5,5 +5,5 @@ Cara menjalankan projek setelah clone
 - .env.example .env
 - php artisan key:generate
 - php artisan migrate
-- php artisan db:seed --clas=UserSeeder
+- php artisan db:seed --class=UserSeeder
 - php artisan serve
